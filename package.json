@@ -1,0 +1,14 @@
+{
+  "name": "com.giganticduck.google",
+  "version": "1.0.0",
+  "displayName": "Google",
+  "keywords": [
+    "google"
+  ],
+  "author": {
+    "name": "Gigantic Duck",
+    "email": "hello@giganticduck.com",
+    "url": "https://giganticduck.com"
+  },
+  "description": "Includes google packages"
+}
